@@ -29,12 +29,11 @@
 - I’m currently working on: [Booking app](https://github.com/AndriySt92/booking_app_frontend)
 - Check my commercial project: [Cooperative web site](https://github.com/AndriySt92/R-RGroup)
 
-<br/>
+---
 
 <img align="left" alt="Dmytry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndriySt92&show_icons=true&theme=react">
 <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriySt92&layout=compact&theme=react">
 
-<br/>
-<div>
-![Codewars](https://github.r2v.ch/codewars?user=AndriySt&stroke=COLOR)
-</div>
+---
+
+[![Profile badge](https://www.codewars.com/users/AndriySt/badges/small)](https://www.codewars.com/users/AndriySt)
